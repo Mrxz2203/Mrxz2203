@@ -88,8 +88,15 @@ Sitio personal en Vue con secciones sobre mis intereses, proyectos y pasatiempos
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mrxz2203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrxz2203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<!--
+  ⚠️ REEMPLAZA "tu-proyecto" por el nombre real que Vercel le dé a tu fork
+  de github-readme-stats (ej: github-readme-stats-gabriel.vercel.app).
+  Se añadió cache_seconds=1800 para refrescar cada 30 min y evitar
+  que Camo (el proxy de imágenes de GitHub) sirva una versión vieja.
+-->
+
+<img height="165em" src="https://tu-proyecto.vercel.app/api?username=Mrxz2203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+<img height="165em" src="https://tu-proyecto.vercel.app/api/top-langs/?username=Mrxz2203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img src="https://streak-stats.demolab.com/?user=Mrxz2203&theme=tokyonight&hide_border=true" />
 
