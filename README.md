@@ -88,28 +88,25 @@ Sitio personal en Vue con secciones sobre mis intereses, proyectos y pasatiempos
 
 <div align="center">
 
-<!--
-  ⚠️ REEMPLAZA "tu-proyecto" por el nombre real que Vercel le dé a tu fork
-  de github-readme-stats (ej: github-readme-stats-gabriel.vercel.app).
-  Se añadió cache_seconds=1800 para refrescar cada 30 min y evitar
-  que Camo (el proxy de imágenes de GitHub) sirva una versión vieja.
--->
-
-<img height="165em" src="https://tu-proyecto.vercel.app/api?username=Mrxz2203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-<img height="165em" src="https://tu-proyecto.vercel.app/api/top-langs/?username=Mrxz2203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
 <img src="https://streak-stats.demolab.com/?user=Mrxz2203&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mrxz2203&theme=tokyonight&no-frame=true&row=1&column=6" />
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mrxz2203&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6&margin-w=8"/>
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/Mrxz2203?label=Followers&style=for-the-badge&color=0891B2&logo=github)](https://github.com/Mrxz2203?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Mrxz2203?label=Stars&style=for-the-badge&color=0891B2&logo=github)](https://github.com/Mrxz2203?tab=repositories&sort=stargazers)
+![Profile Views](https://komarev.com/ghpvc/?username=Mrxz2203&color=0891b2&style=for-the-badge&label=Visitas)
 
 </div>
+
+> 💡 **Nota:** quité temporalmente la tarjeta de stats principal y la de "Top Languages" — dependen de la instancia pública de `github-readme-stats.vercel.app`, que sigue teniendo caídas por rate-limit. Streak y Trophy usan otros servicios (demolab / vercel-trophy) que no comparten ese cuello de botella, por eso sí cargan. Cuando tengas tu propia instancia (guía abajo 👇) las vuelvo a agregar.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=2"/>
 
 <div align="center">
-
-### 👀 Visitas al perfil
-![Profile Views](https://komarev.com/ghpvc/?username=Mrxz2203&color=0891b2&style=for-the-badge)
 
 *"El código es como el humor: si tienes que explicarlo, es palta."*
 
