@@ -92,7 +92,6 @@ Sitio personal en Vue con secciones sobre mis intereses, proyectos y pasatiempos
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mrxz2203&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6&margin-w=8"/>
 
 <br/>
 
@@ -101,8 +100,6 @@ Sitio personal en Vue con secciones sobre mis intereses, proyectos y pasatiempos
 ![Profile Views](https://komarev.com/ghpvc/?username=Mrxz2203&color=0891b2&style=for-the-badge&label=Visitas)
 
 </div>
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=2"/>
 
