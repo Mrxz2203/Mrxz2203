@@ -102,7 +102,7 @@ Sitio personal en Vue con secciones sobre mis intereses, proyectos y pasatiempos
 
 </div>
 
-> 💡 **Nota:** quité temporalmente la tarjeta de stats principal y la de "Top Languages" — dependen de la instancia pública de `github-readme-stats.vercel.app`, que sigue teniendo caídas por rate-limit. Streak y Trophy usan otros servicios (demolab / vercel-trophy) que no comparten ese cuello de botella, por eso sí cargan. Cuando tengas tu propia instancia (guía abajo 👇) las vuelvo a agregar.
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=2"/>
 
